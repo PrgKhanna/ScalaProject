@@ -5,6 +5,9 @@
 .cache
 .history
 .lib/
+.idea/
+.idea/*
+.idea/workspace.xml
 dist/*
 target/
 lib_managed/
