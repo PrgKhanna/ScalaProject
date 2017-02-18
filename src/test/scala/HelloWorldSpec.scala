@@ -8,4 +8,8 @@ class HelloWorldSpec extends FunSuite {
   test("Addition"){
     assert(2 == 2)
   }
+
+  test("Multiplication"){
+    assert(2 * 2 == 4)
+  }
 }
